@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.8" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <Properties>
+    <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+      <Dimension value="[980, 520]"/>
+    </Property>
+  </Properties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane1" alignment="0" pref="980" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane1" alignment="1" pref="520" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Monospaced" size="18" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="66" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="lineWrap" type="boolean" value="true"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="tabSize" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="Welcome Admin........&#xa;Virtual education is a term describing online education using the Internet. This term is used in K-12 schooling, often to refer to cyber schools, and in higher education, where so-called Virtual Universities have been established. A virtual program (or a virtual course of studies) is a study program in which all courses, or at least a significant portion of the courses, are virtual courses, whether in synchronous (i.e. real time) or asynchronous (i.e. self-paced) formats.&#xa;&#xa;Virtual courses &#x2013; a synonym is online courses &#x2013; are courses delivered on the Internet. &quot;Virtual&quot; is used here to characterize the fact that the course is not taught in a classroom face-to-face but through some substitute mode that can be associated with classroom teaching. That means people do not have to go to the real class to learn.&#xa;&#xa;Both the asynchronous and synchronous methods rely heavily on self-motivation, self-discipline, and ability for effective written communication.[2]&#xa;&#xa;Although there is a long and varied history of distance education, the current intersection of technology as a means to facilitate real-time communication with community-centered interaction, and the increasing acceptance and employment of those developments in the broader culture, have positioned virtual schools in a position of significant innovation and responsibility. In an educational environment in which school choice for families and students is valued, &#x201c;cyber charter schools, as an outgrowth of the charter movement and the virtual school movement, represent a unique group of schools characterized by both their administrative model and their course delivery technology.&#x201d;&#xa;Virtual Classroom: Live teacher instruction and feedback online that enables real-time voice interaction, whiteboard sharing, and breakout sessions to enhance a student&apos;s learning experience. This provides students an opportunity to interact with the teacher as well as classmates by oral and written communication.&#xa;Virtual operating room: giving students a space to learn the basic induction procedure before stepping foot in the real-life operating room.[4]&#xa;Hypertext courses: Structured course material is used as in a conventional distance education program. However, all material is provided electronically and can be viewed with a browser. Hyperlinks connect text, multimedia parts and exercises.&#xa;Video-based courses are like face-to-face classroom courses, with a lecturer speaking and Powerpoint slides or online examples used for illustration. Video-streaming technologies is used. Students watch the video by means of freeware or plug-ins.&#xa;Audio-based courses are similar but instead of moving pictures only the sound track of the lecturer is provided. Often the course pages are enhanced with a text transcription of the lecture.&#xa;Animated courses: Enriching text-oriented or audio-based course material by animations is generally a good way of making the content and its appearance more interesting. Animations are created using Macromedia Flash or similar technologies.&#xa;Web-supported textbook courses are based on specific textbooks. Students read and reflect on the chapters by themselves. Review questions, topics for discussion, exercises, case studies, etc. are given chapterwise on a website and discussed with the lecturer. Class meetings may be held to discuss matters in a chatroom, for example.[5]&#xa;Peer-to-peer courses are courses taught &quot;on-demand&quot; and without a prepared curriculum. A new field of online education has emerged in 2007 through new online education platforms.&#xa;Social Networking: Using Web 2.0 technologies in virtual classrooms promotes increased social interaction, student-centered instruction and a problem solving curriculum. Students can address a problem that is oriented to a cross curriculum activity. Teachers will act as guides and resources, but it is up to the students to collaborate, discuss, review ideas, and present solutions."/>
+            <Property name="caretPosition" type="int" value="0"/>
+            <Property name="disabledTextColor" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="66" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="enabled" type="boolean" value="false"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
